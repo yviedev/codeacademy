@@ -12,7 +12,6 @@ while(slaying)
         if (totalDamage >= 4)
         {
             console.log("Congrats! You slew the dragon!");
-            //is there any way to keep this message from printing?
             slaying = false;
         }
         else

@@ -8,7 +8,6 @@ var isEven = function(number) {
   }
   else if (isNaN(number))
   {
-    //what is the diff between return and console.log?
     return("Please input a number");
   }
   else
