@@ -15,7 +15,7 @@ switch(bestCity)
         console.log("If you are ok with up-and-coming neighborhoods...");
         break;
     default:
-        console.log("You might as well live in Staten Island");
+        console.log("You might as well live in Staten Island.");
         break;
 }
 
